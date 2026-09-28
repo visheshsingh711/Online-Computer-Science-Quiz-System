@@ -1,6 +1,6 @@
 # README.md
 
-````markdown
+
 # Online Computer Science Quiz System
 
 ## 1. Project Title
@@ -35,7 +35,7 @@ The program asks the student to enter their name before starting the quiz.
 If no name is entered, the program automatically uses:
 
 ```text
-Guest Student
+
 ````
 
 ### Multiple-Choice Questions
